@@ -125,15 +125,6 @@ top: 1200px;
 font-size: xx-large;
 font-weight: 1000;
 margin: 0;
-padding: 0;
-text-align: center;
-background: linear-gradient(
-rgba(96, 238, 96, 0.719),rgb(16, 232, 240)
-);
--webkit-background-clip: text;
--webkit-text-fill-color: 
-transparent ;
-display: flex;
 align-items: center;
 justify-content: center;
 height: 100vh;
